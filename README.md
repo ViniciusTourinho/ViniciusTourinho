@@ -1,7 +1,9 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://viniciustourinho.github.io/) 
 <h1 align="center">Hi 👋, I'm Vinícius Cruz Tourinho dos Santos</h1>
-<h3 align="center">A Learning backend developer from Brazil</h3>
+<h3 align="center">Software Developer student from Brazil</h3>
 
-- 🌱 I’m currently learning **Data Science focused Python**
+- 🌱 I’m currently learning **Data Science with Python**
+- <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/240885497-49abd3ca-b048-4f27-b7e0-ea6a7b172ac3.gif">
 
 - 📫 How to reach me **vini27rj@hotmail.com**
 
@@ -17,4 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciustourinho&show_icons=true&locale=en&layout=compact" alt="viniciustourinho" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciustourinho&show_icons=true&locale=en" alt="viniciustourinho" /></p>
+
 
