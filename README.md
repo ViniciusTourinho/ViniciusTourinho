@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **Data Science with Python**
 
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/240885497-49abd3ca-b048-4f27-b7e0-ea6a7b172ac3.gif%22%3E
+
 - 📫 How to reach me **vini27rj@hotmail.com**
 
 - 📄 Know about my experiences [https://viniciustourinho.github.io/](https://viniciustourinho.github.io/)
